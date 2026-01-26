@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Problem Statement
+## Problem Statement
 
 In the modern labor market:
 
@@ -23,7 +23,7 @@ SkillGap Monitor transforms unstructured job data into actionable career intelli
 
 ---
 
-## 🤖 AI & Research Focus (The Core)
+##  AI & Research Focus (The Core)
 
 This project is built as a **Computer Science Research Study** focused on **Computational Labor Economics** and **NLP**.
 
@@ -70,7 +70,7 @@ This project is built as a **Computer Science Research Study** focused on **Comp
 
 ---
 
-## 📈 Why This Project Matters
+##  Why This Project Matters
 
 * **For Users:** It provides a data-driven path to their next job, removing the "guesswork" of what to learn next.
 * **For Researchers:** It provides a framework for understanding how quickly the tech industry evolves and how AI can automate career counseling.
