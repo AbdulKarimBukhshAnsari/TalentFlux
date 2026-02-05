@@ -11,7 +11,7 @@ In the modern labor market:
 * **Semantic Gap:** Traditional job portals use basic keyword matching (e.g., searching for "React"), which fails to understand the context or related technologies (e.g., "Next.js Server Components").
 * **Static Skills vs. Dynamic Market:** Professionals often learn tools that are already losing demand, leading to a "Skill Gap" between their expertise and actual market needs.
 
-## 💡 The Solution
+## The Solution
 
 SkillGap Monitor transforms unstructured job data into actionable career intelligence:
 
