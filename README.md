@@ -5,8 +5,6 @@
 
 ## Problem Statement
 
-In the modern labor market:
-
 * **Information Overload:** Thousands of job descriptions are posted daily, making it impossible for humans to track emerging trends manually.
 * **Semantic Gap:** Traditional job portals use basic keyword matching (e.g., searching for "React"), which fails to understand the context or related technologies (e.g., "Next.js Server Components").
 * **Static Skills vs. Dynamic Market:** Professionals often learn tools that are already losing demand, leading to a "Skill Gap" between their expertise and actual market needs.
