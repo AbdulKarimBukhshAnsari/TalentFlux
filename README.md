@@ -9,16 +9,6 @@
 * **Semantic Gap:** Traditional job portals use basic keyword matching (e.g., searching for "React"), which fails to understand the context or related technologies (e.g., "Next.js Server Components").
 * **Static Skills vs. Dynamic Market:** Professionals often learn tools that are already losing demand, leading to a "Skill Gap" between their expertise and actual market needs.
 
-## The Solution
-
-SkillGap Monitor transforms unstructured job data into actionable career intelligence:
-
-1. **Automated Scraping:** Real-time extraction of job data from global platforms (LinkedIn, Indeed, etc.).
-2. **AI Entity Extraction:** Using LLMs to parse messy text into structured technical requirements.
-3. **Semantic Matching:** Calculating the "Mathematical Distance" between a user's resume and the current market.
-4. **Trend Forecasting:** Identifying which skills are rising in popularity and which are becoming obsolete.
-
----
 
 ##  AI & Research Focus (The Core)
 
