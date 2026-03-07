@@ -3,12 +3,6 @@
 **SkillGap Monitor** is a professional-grade SaaS platform designed to solve the problem of "Skill Obsolescence" in the fast-paced 2026 tech market. It utilizes **Web Scraping**, **Natural Language Processing (NLP)**, and **Vector Mathematics** to provide job seekers with a real-time roadmap to employability.
 
 
-## Problem Statement
-
-* **Information Overload:** Thousands of job descriptions are posted daily, making it impossible for humans to track emerging trends manually.
-* **Semantic Gap:** Traditional job portals use basic keyword matching (e.g., searching for "React"), which fails to understand the context or related technologies (e.g., "Next.js Server Components").
-* **Static Skills vs. Dynamic Market:** Professionals often learn tools that are already losing demand, leading to a "Skill Gap" between their expertise and actual market needs.
-
 
 ##  AI & Research Focus (The Core)
 
